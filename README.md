@@ -39,16 +39,12 @@ I'm a practical engineer from ORT College.
 <br />
 ---
 ### 📺 Latest YouTube Videos
+<div align="center">
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/sm26?sub_confirmation=1)
+</div>
 <!-- YOUTUBE:START -->
-- [SM26 - מה זה פייזר?](https://www.youtube.com/watch?v=jfMi_KJrSms)
-- [SM26 - סדנת אופנוענות בתאמי!](https://www.youtube.com/watch?v=EMCQMTH9pbQ)
-- [SM26 - לחיות שנתיים עם SWM](https://www.youtube.com/watch?v=ctt1aptJ0UY)
-- [Backup you SWM ecu map!](https://www.youtube.com/watch?v=TXMnkAAxVLY)
-- [SM26 - הדוד הכי טוב EVER](https://www.youtube.com/watch?v=auKu8W252qA)
 <!-- YOUTUBE:END -->
-➡️ [more videos...][YoutubeLink]
 ---
-
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
