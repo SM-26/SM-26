@@ -39,6 +39,8 @@ I'm a practical engineer from ORT College.
 <br />
 ---
 ### 📺 Latest YouTube Videos
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 ➡️ [more videos...][YoutubeLink]
