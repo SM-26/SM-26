@@ -23,6 +23,7 @@ I'm a practical engineer from ORT College.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
@@ -35,7 +36,9 @@ I'm a practical engineer from ORT College.
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://sm26.gitlab.io/" target="_blank" rel="noreferrer"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="docker" width="40" height="40"/> </a> 
+<a href="https://sm26.gitlab.io/" target="_blank" rel="noreferrer"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab" width="40" height="40"/> </a> 
+<a href="https://github.com/home-assistant/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg" alt="Home Assistant" width="40" height="40"/> </a> 
+
 
 
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="40" height="40"/> </a> 
@@ -47,15 +50,21 @@ I'm a practical engineer from ORT College.
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://extensions.oroinc.com/wp-content/uploads/sites/2/2019/01/sap-erp.png" alt="SAP ERP" width="40" height="40"/> </a> 
 
+
+<a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/FreeCAD-logo.svg" alt="FreeCad" width="40" height="40"/> </a> 
+<a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Openscad.svg" alt="OpenScad" width="40" height="40"/> </a> 
+<a target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/5830947/34199130-fc8c0f40-e56c-11e7-8dd2-597e86ef50bc.png" alt="Prusa Slicer" width="40" height="40"/> </a> 
+
+
+
 </p>
 
 <br />
 <br />
 ---
 ### 📺 Latest YouTube Videos
-<div align="center">
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCx0MD7WLGmdKl7ymCnglfnw?style=social)
-</div>
+
+<a href="http://www.youtube.com/channel/UCx0MD7WLGmdKl7ymCnglfnw?sub_confirmation=1" target="_blank" rel="noreferrer"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCx0MD7WLGmdKl7ymCnglfnw?style=social"></a>
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jfMi_KJrSms"><img width="140px" src="https://i.ytimg.com/vi/jfMi_KJrSms/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jfMi_KJrSms">SM26 - מה זה פייזר?</a><br/>Sep 30, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EMCQMTH9pbQ"><img width="140px" src="https://i.ytimg.com/vi/EMCQMTH9pbQ/mqdefault.jpg"></a></td>
@@ -82,7 +91,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning VR games development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about 3D printing
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
