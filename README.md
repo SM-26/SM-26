@@ -4,23 +4,20 @@
 
 I'm a practical engineer from ORT College.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm-26&show_icons=true&theme=github_dark)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sm-26&show_icons=true&locale=en&layout=compact" alt="sm-26" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sm-26&label=Profile%20views&color=0e75b6&style=flat" alt="sm-26" /> </p>
+<img src="https://komarev.com/ghpvc/?username=sm-26&label=Profile%20views&color=0e75b6&style=flat" alt="profile view count" />
 
+![SM26's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm-26&show_icons=true&theme=github_dark)
+![Github Languages useage](https://github-readme-stats.vercel.app/api/top-langs?username=sm-26&show_icons=true&locale=en)
+<br />
 <br />
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-  <a href="https://twitter.com/maybe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maybe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yes" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yes" height="30" width="40" /></a>
-<a href="https://instagram.com/sm26.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sm26.official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sm26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sm26" height="30" width="40" /></a>
-</p>
-
+### Connect with me: ###
+<a href="https://sm26.gitlab.io/" target="blank"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="30" width="40" /></a>
+<a href="https://twitter.com/GaistOr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maybe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gaist-or/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yes" height="30" width="40" /></a>
+<a href="https://t.me/sm_26" target="blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" alt="yes" height="30" width="40" /></a>
+<a href="https://instagram.com/sm26.official" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sm26.official" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sm26" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sm26" height="30" width="40" /></a>
 
 
 
@@ -72,3 +69,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[website]:https://sm26.gitlab.io/
