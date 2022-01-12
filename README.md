@@ -55,11 +55,7 @@ I'm a practical engineer from ORT College.
 <a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Openscad.svg" alt="OpenScad" width="40" height="40"/> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/5830947/34199130-fc8c0f40-e56c-11e7-8dd2-597e86ef50bc.png" alt="Prusa Slicer" width="40" height="40"/> </a> 
 
-
-
 </p>
-
-<br />
 <br />
 
 ### 📺 Latest YouTube Videos
