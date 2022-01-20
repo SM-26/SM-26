@@ -76,7 +76,7 @@ I'm a practical engineer from ORT College.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41524](https://github.com/microsoft/winget-pkgs/pull/41524) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+1. ❌ Reopened PR [#41524](https://github.com/microsoft/winget-pkgs/pull/41524) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
 
 
