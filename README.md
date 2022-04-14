@@ -76,7 +76,7 @@ I'm a practical engineer from ORT College.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#270](https://github.com/bmatzelle/gow/pull/270) in [bmatzelle/gow](https://github.com/bmatzelle/gow)
+1. 🗣 Commented on [#239](https://github.com/hassio-addons/addon-tasmoadmin/issues/239) in [hassio-addons/addon-tasmoadmin](https://github.com/hassio-addons/addon-tasmoadmin)
 <!--END_SECTION:activity-->
 
 
