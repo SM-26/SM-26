@@ -76,7 +76,7 @@ I'm a practical engineer from ORT College.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#603](https://github.com/ksnip/ksnip/issues/603) in [ksnip/ksnip](https://github.com/ksnip/ksnip)
+1. 🗣 Commented on [#2311](https://github.com/prusa3d/Prusa-Firmware-Buddy/issues/2311) in [prusa3d/Prusa-Firmware-Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy)
 <!--END_SECTION:activity-->
 
 
