@@ -76,7 +76,7 @@ I'm a practical engineer from ORT College.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2311](https://github.com/prusa3d/Prusa-Firmware-Buddy/issues/2311) in [prusa3d/Prusa-Firmware-Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy)
+1. 🗣 Commented on [#6](https://github.com/made-by-traxam/raft-waterwheel-mod/issues/6) in [made-by-traxam/raft-waterwheel-mod](https://github.com/made-by-traxam/raft-waterwheel-mod)
 <!--END_SECTION:activity-->
 
 
