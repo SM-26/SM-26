@@ -76,7 +76,7 @@ I'm a practical engineer from ORT College.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/LennardF1989/BG3-BagsOfSorting/issues/6#issuecomment-1703672246) in [LennardF1989/BG3-BagsOfSorting](https://github.com/LennardF1989/BG3-BagsOfSorting)
+1. ❗ Opened issue [#1](https://github.com/hunterwilhelm/offset-clocks-android/issues/1) in [hunterwilhelm/offset-clocks-android](https://github.com/hunterwilhelm/offset-clocks-android)
 <!--END_SECTION:activity-->
 
 
