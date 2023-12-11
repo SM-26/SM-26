@@ -76,7 +76,7 @@ I'm a practical engineer from ORT College.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/hunterwilhelm/offset-clocks-android/issues/1) in [hunterwilhelm/offset-clocks-android](https://github.com/hunterwilhelm/offset-clocks-android)
+1. 🗣 Commented on [#50](https://github.com/sawhney17/logseq-calendars-plugin/issues/50#issuecomment-1850496235) in [sawhney17/logseq-calendars-plugin](https://github.com/sawhney17/logseq-calendars-plugin)
 <!--END_SECTION:activity-->
 
 
