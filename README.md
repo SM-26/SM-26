@@ -76,7 +76,7 @@ I'm a practical engineer from ORT College.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/sawhney17/logseq-calendars-plugin/issues/50#issuecomment-1850496235) in [sawhney17/logseq-calendars-plugin](https://github.com/sawhney17/logseq-calendars-plugin)
+1. 🗣 Commented on [#64](https://github.com/ahonn/logseq-plugin-todo/issues/64#issuecomment-1868542055) in [ahonn/logseq-plugin-todo](https://github.com/ahonn/logseq-plugin-todo)
 <!--END_SECTION:activity-->
 
 
