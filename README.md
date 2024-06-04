@@ -76,7 +76,7 @@ I'm a practical engineer from ORT College.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/ahonn/logseq-plugin-todo/issues/64#issuecomment-1868542055) in [ahonn/logseq-plugin-todo](https://github.com/ahonn/logseq-plugin-todo)
+1. ❗ Opened issue [#95](https://github.com/starknet-io/provisions-data/issues/95) in [starknet-io/provisions-data](https://github.com/starknet-io/provisions-data)
 <!--END_SECTION:activity-->
 
 
