@@ -76,7 +76,7 @@ I'm a practical engineer from ORT College.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/starknet-io/provisions-data/issues/95#issuecomment-2148168524) in [starknet-io/provisions-data](https://github.com/starknet-io/provisions-data)
+1. 💪 Opened PR [#97](https://github.com/starknet-io/provisions-data/pull/97) in [starknet-io/provisions-data](https://github.com/starknet-io/provisions-data)
 <!--END_SECTION:activity-->
 
 
