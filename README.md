@@ -76,7 +76,7 @@ I'm a practical engineer from ORT College.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12](https://github.com/silentbil/silent-bus/issues/12) in [silentbil/silent-bus](https://github.com/silentbil/silent-bus)
+1. ❗ Opened issue [#159](https://github.com/hristo-atanasov/Tasmota-IRHVAC/issues/159) in [hristo-atanasov/Tasmota-IRHVAC](https://github.com/hristo-atanasov/Tasmota-IRHVAC)
 <!--END_SECTION:activity-->
 
 
