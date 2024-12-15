@@ -76,7 +76,7 @@ I'm a practical engineer from ORT College.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#257](https://github.com/teoxoy/factorio-blueprint-editor/issues/257#issuecomment-2450256616) in [teoxoy/factorio-blueprint-editor](https://github.com/teoxoy/factorio-blueprint-editor)
+1. ❗ Opened issue [#1](https://github.com/dailydaniel/logseq-plugin-ai-query/issues/1) in [dailydaniel/logseq-plugin-ai-query](https://github.com/dailydaniel/logseq-plugin-ai-query)
 <!--END_SECTION:activity-->
 
 
