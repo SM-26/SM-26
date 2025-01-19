@@ -76,7 +76,7 @@ I'm a practical engineer from ORT College.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#433](https://github.com/fabianonline/OctoPrint-Telegram/issues/433) in [fabianonline/OctoPrint-Telegram](https://github.com/fabianonline/OctoPrint-Telegram)
+1. 🗣 Commented on [#433](https://github.com/fabianonline/OctoPrint-Telegram/issues/433#issuecomment-2601017820) in [fabianonline/OctoPrint-Telegram](https://github.com/fabianonline/OctoPrint-Telegram)
 <!--END_SECTION:activity-->
 
 
