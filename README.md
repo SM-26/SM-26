@@ -76,7 +76,7 @@ I'm a practical engineer from ORT College.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#433](https://github.com/fabianonline/OctoPrint-Telegram/issues/433#issuecomment-2601017820) in [fabianonline/OctoPrint-Telegram](https://github.com/fabianonline/OctoPrint-Telegram)
+1. 🗣 Commented on [#156](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number/issues/156#issuecomment-2772943972) in [YU000jp/logseq-plugin-show-weekday-and-week-number](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
 <!--END_SECTION:activity-->
 
 
