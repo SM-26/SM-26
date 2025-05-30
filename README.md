@@ -76,7 +76,7 @@ I'm a practical engineer from ORT College.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#164](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number/issues/164#issuecomment-2893137563) in [YU000jp/logseq-plugin-show-weekday-and-week-number](https://github.com/YU000jp/logseq-plugin-show-weekday-and-week-number)
+1. 🗣 Commented on [#135](https://github.com/bohanyang/debi/issues/135#issuecomment-2918731872) in [bohanyang/debi](https://github.com/bohanyang/debi)
 <!--END_SECTION:activity-->
 
 
