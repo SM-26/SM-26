@@ -76,7 +76,7 @@ I'm a practical engineer from ORT College.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135](https://github.com/bohanyang/debi/issues/135#issuecomment-2918731872) in [bohanyang/debi](https://github.com/bohanyang/debi)
+1. 🎉 Merged PR [#2](https://github.com/SM-26/GoLearning/pull/2) in [SM-26/GoLearning](https://github.com/SM-26/GoLearning)
 <!--END_SECTION:activity-->
 
 
