@@ -61,7 +61,9 @@ I'm a practical engineer from ORT College.
 ### 📺 Latest YouTube Videos
 
 <a href="http://www.youtube.com/channel/UCx0MD7WLGmdKl7ymCnglfnw?sub_confirmation=1" target="_blank" rel="noreferrer"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCx0MD7WLGmdKl7ymCnglfnw?style=social"></a>
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jfMi_KJrSms"><img width="140px" src="https://i.ytimg.com/vi/jfMi_KJrSms/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=L9hIT3PjNG8"><img width="140px" src="https://i.ytimg.com/vi/L9hIT3PjNG8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=L9hIT3PjNG8">SM26 - אני סיימתי פה</a><br/>Jun 9, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jfMi_KJrSms"><img width="140px" src="https://i.ytimg.com/vi/jfMi_KJrSms/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jfMi_KJrSms">SM26 - מה זה פייזר?</a><br/>Sep 30, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EMCQMTH9pbQ"><img width="140px" src="https://i.ytimg.com/vi/EMCQMTH9pbQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EMCQMTH9pbQ">SM26 - סדנת אופנוענות בתאמי!</a><br/>Jul 16, 2021</td></tr></table>
@@ -69,8 +71,6 @@ I'm a practical engineer from ORT College.
 <td><a href="https://www.youtube.com/watch?v=ctt1aptJ0UY">SM26 - לחיות שנתיים עם SWM</a><br/>May 9, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TXMnkAAxVLY"><img width="140px" src="https://i.ytimg.com/vi/TXMnkAAxVLY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TXMnkAAxVLY">Backup you SWM ecu map!</a><br/>Apr 22, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=auKu8W252qA"><img width="140px" src="https://i.ytimg.com/vi/auKu8W252qA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=auKu8W252qA">SM26 - הדוד הכי טוב EVER</a><br/>Apr 16, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 ---
 
