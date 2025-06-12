@@ -69,8 +69,8 @@ I'm a practical engineer from ORT College.
 <td><a href="https://www.youtube.com/watch?v=EMCQMTH9pbQ">SM26 - סדנת אופנוענות בתאמי!</a><br/>Jul 16, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ctt1aptJ0UY"><img width="140px" src="https://i.ytimg.com/vi/ctt1aptJ0UY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ctt1aptJ0UY">SM26 - לחיות שנתיים עם SWM</a><br/>May 9, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/TXMnkAAxVLY"><img width="140px" src="https://i.ytimg.com/vi/TXMnkAAxVLY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/TXMnkAAxVLY">Backup you SWM ecu map!</a><br/>Apr 22, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=TXMnkAAxVLY"><img width="140px" src="https://i.ytimg.com/vi/TXMnkAAxVLY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=TXMnkAAxVLY">Backup you SWM ecu map!</a><br/>Apr 22, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 ---
 
