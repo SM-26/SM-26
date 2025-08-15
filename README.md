@@ -76,7 +76,7 @@ I'm a practical engineer from ORT College.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/SM-26/GoSaleBot/pull/3) in [SM-26/GoSaleBot](https://github.com/SM-26/GoSaleBot)
+1. 🎉 Merged PR [#4](https://github.com/SM-26/GoSaleBot/pull/4) in [SM-26/GoSaleBot](https://github.com/SM-26/GoSaleBot)
 <!--END_SECTION:activity-->
 
 
