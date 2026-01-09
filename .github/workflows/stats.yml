@@ -20,11 +20,16 @@ jobs:
           template: classic
           
           # --- Base Configuration ---
-          # This hides Sponsors, Stargazers, and Organizations
+          # We fetch these 4 modules to get all necessary data
           base: header, activity, repositories, metadata
-          base_sections: header, highlights, repositories # highlights shows the 'lines of code'
+          # We EXPLICITLY skip the community section (Sponsors/Stars)
+          base_skip: community
+          # Enable the hireable badge
           base_hireable: yes
           config_timezone: Europe/Prague
+          
+          # --- Lines of Code ---
+          plugin_lines: yes
 
           # --- Followup (Issues & PR Status) ---
           plugin_followup: yes
