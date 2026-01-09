@@ -1,8 +1,8 @@
 name: GitHub Stats
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every night at midnight
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update-stats:
@@ -15,5 +15,32 @@ jobs:
           token: ${{ secrets.GH_PAYLOAD_TOKEN }}
           user: sm-26
           template: classic
-          base: header, activity, community, repositories, metadata
+          
+          # --- Base Configuration ---
+          # 'header' for profile, 'activity' for the lines/commits, 'repositories' for repo count.
+          # We omit 'community' and 'metadata' to keep sponsors/orgs hidden.
+          base: header, activity, repositories
+          base_sections: header, highlights, repositories # highlights shows the 'lines of code'
           config_timezone: UTC
+          
+          # --- Languages Activity ---
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex
+          plugin_languages_details: percentage, lines
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          
+          # --- Starred Topics (with icons) ---
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons # This shows the icons as requested
+          
+          # --- Comment Reactions ---
+          plugin_reactions: yes
+          plugin_reactions_limit: 200
+          plugin_reactions_display: default
+          
+          # --- Achievements ---
+          plugin_achievements: yes
+          plugin_achievements_threshold: C # Only show 'C' rank and above
+          plugin_achievements_display: compact # Keeps the layout clean
