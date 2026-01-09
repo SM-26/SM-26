@@ -1,13 +1,8 @@
 ### Hi there :wave:	
 
-
-
-I'm a practical engineer from ORT College.
-
-<img src="https://komarev.com/ghpvc/?username=sm-26&label=Profile%20views&color=0e75b6&style=flat" alt="profile view count" />
-
-![SM26's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm-26&show_icons=true&theme=github_dark)
-![Github Languages useage](https://github-readme-stats.vercel.app/api/top-langs?username=sm-26&show_icons=true&locale=en)
+I'm a software engineer and enterprise systems consultant with diverse interests spanning motorcycle documentation, accessibility tools, game modding, and emerging technologies.
+<br><img src="https://komarev.com/ghpvc/?username=sm-26&label=Profile%20views&color=0e75b6&style=flat" alt="profile view count" /> <br>
+![GitHub Stats](https://raw.githubusercontent.com/SM-26/SM-26/main/github-metrics.svg)<br>
 <br />
 <br />
 
@@ -19,7 +14,23 @@ I'm a practical engineer from ORT College.
 <a href="https://instagram.com/sm26.official" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
 <a href="https://www.youtube.com/c/sm26" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="40" width="40" /></a>
 
+### 🚀 Currently Learning
+- **VR/Metaverse Development** - Avatar creation and immersive experiences
+- **Czech Language** - Professional and conversational proficiency
+- **n8n Automation Workflows** - Building sophisticated webhook integrations and automation solutions
 
+### 🏍️ Beyond the Code
+- **Motorcycles & Mechanical Engineering** - SWM SM500R enthusiast and documentation contributor
+- **Shooting Sports** - Competitive pistol training and CQB practice
+- **3D Printing & Design** - Prototyping and mechanical projects
+- **VR Gaming** - Immersive gaming experiences and streaming
+
+### ⚡ Fun Facts
+- Relocated from Israel to Czech Republic for new opportunities and quality of life
+- Passionate about both enterprise systems and mechanical engineering
+- Active contributor to motorcycle documentation and open-source projects
+- Enthusiast of emerging technologies: VR, AI, and home automation
+- Fluent in English and Hebrew, learning Czech
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -37,7 +48,7 @@ I'm a practical engineer from ORT College.
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://sm26.gitlab.io/" target="_blank" rel="noreferrer"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab" width="40" height="40"/> </a> 
-<a href="https://github.com/home-assistant/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg" alt="Home Assistant" width="40" height="40"/> </a> 
+<a href="https://github.com/home-assistant/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/4/49/Home_Assistant_logo_%282023%29.svg" alt="Home Assistant" width="40" height="40"/> </a> 
 
 
 
@@ -58,6 +69,11 @@ I'm a practical engineer from ORT College.
 </p>
 <br />
 
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/SM-26/GoSaleBot/pull/5) in [SM-26/GoSaleBot](https://github.com/SM-26/GoSaleBot)
+<!--END_SECTION:activity-->
+
 ### 📺 Latest YouTube Videos
 
 <a href="http://www.youtube.com/channel/UCx0MD7WLGmdKl7ymCnglfnw?sub_confirmation=1" target="_blank" rel="noreferrer"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCx0MD7WLGmdKl7ymCnglfnw?style=social"></a>
@@ -72,22 +88,5 @@ I'm a practical engineer from ORT College.
 <table><tr><td><a href="https://www.youtube.com/shorts/TXMnkAAxVLY"><img width="140px" src="https://i.ytimg.com/vi/TXMnkAAxVLY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/TXMnkAAxVLY">Backup you SWM ecu map!</a><br/>Apr 22, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
----
-
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/SM-26/GoSaleBot/pull/5) in [SM-26/GoSaleBot](https://github.com/SM-26/GoSaleBot)
-<!--END_SECTION:activity-->
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on this Github readme page
-- 🌱 I’m currently learning VR games development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 3D printing
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br>----<br>
+Last update: Jan 2026
