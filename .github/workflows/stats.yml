@@ -18,9 +18,10 @@ jobs:
           
           # --- Base Configuration ---
           # This hides Sponsors, Stargazers, and Organizations
-          base: ""
+          base: header, activity, repositories
           base_sections: header, highlights, repositories # highlights shows the 'lines of code'
-          config_timezone: UTC
+          base_hireable: yes
+          config_timezone: Europe/Prague
 
           # --- Followup (Issues & PR Status) ---
           plugin_followup: yes
