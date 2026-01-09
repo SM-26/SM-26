@@ -3,6 +3,9 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/stats.yml' # Only triggers when THIS file is changed
 
 jobs:
   update-stats:
@@ -18,7 +21,7 @@ jobs:
           
           # --- Base Configuration ---
           # This hides Sponsors, Stargazers, and Organizations
-          base: header, activity, repositories
+          base: header, activity, repositories, metadata
           base_sections: header, highlights, repositories # highlights shows the 'lines of code'
           base_hireable: yes
           config_timezone: Europe/Prague
