@@ -10,52 +10,95 @@ on:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - name: Generate Stats
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_PAYLOAD_TOKEN }}
+          # Options
           user: sm-26
           template: classic
-          
-          # --- Base Configuration ---
-          # We fetch these 4 modules to get all necessary data
-          base: header, activity, repositories, metadata
-          # We EXPLICITLY skip the community section (Sponsors/Stars)
-          base_skip: community
-          # Enable the hireable badge
+          base: header, activity, community, repositories, metadata
           base_hireable: yes
-          config_timezone: Europe/Prague
-          
-          # --- Lines of Code ---
-          plugin_lines: yes
-
-          # --- Followup (Issues & PR Status) ---
+          config_display: columns
+          config_octicon: yes
+          config_timezone: Europe/Prauge
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
           plugin_followup: yes
-          plugin_followup_sections: user # Shows status of issues/PRs you created
-          
-          # --- Languages Activity ---
+          plugin_followup_archived: yes
+          plugin_followup_sections: repositories
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex
-          plugin_languages_details: percentage, lines
-          plugin_languages_sections: most-used
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
           plugin_languages_limit: 8
-                    
-          # --- Comment Reactions ---
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
           plugin_reactions: yes
+          plugin_reactions_display: absolute
           plugin_reactions_limit: 200
-          plugin_reactions_display: default
+          plugin_reactions_limit_discussions: 100
+          plugin_reactions_limit_discussions_comments: 100
+          plugin_reactions_limit_issues: 100
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          repositories_forks: yes
           
-          # # --- Achievements ---
-          # plugin_achievements: yes
-          # plugin_achievements_threshold: C # Only show 'C' rank and above
-          # plugin_achievements_display: compact # Keeps the layout clean
-          # plugin_achievements_secrets: yes   # Ensures it uses the token for private achievements
-          # plugin_achievements_limit: 10      # Limits the fetch to avoid timeout errors
-          # plugin_achievements_ignored: "member-since"
+          # # # ---- OLD ----
+          # user: sm-26
+          # template: classic
           
-          # # --- Starred Topics (with icons) ---
-          # plugin_topics: yes
-          # plugin_topics_limit: 15
-          # plugin_topics_mode: icons # This shows the icons as requested
+          # # --- Base Configuration ---
+          # # We fetch these 4 modules to get all necessary data
+          # base: header, activity, repositories, metadata
+          # # We EXPLICITLY skip the community section (Sponsors/Stars)
+          # base_skip: community
+          # # Enable the hireable badge
+          # base_hireable: yes
+          # config_timezone: Europe/Prague
+          
+          # # --- Lines of Code ---
+          # plugin_lines: yes
+
+          # # --- Followup (Issues & PR Status) ---
+          # plugin_followup: yes
+          # plugin_followup_sections: user # Shows status of issues/PRs you created
+          
+          # # --- Languages Activity ---
+          # plugin_languages: yes
+          # plugin_languages_ignored: html, css, tex
+          # plugin_languages_details: percentage, lines
+          # plugin_languages_sections: most-used
+          # plugin_languages_limit: 8
+                    
+          # # --- Comment Reactions ---
+          # plugin_reactions: yes
+          # plugin_reactions_limit: 200
+          # plugin_reactions_display: default
+          
+          # # # --- Achievements ---
+          # # plugin_achievements: yes
+          # # plugin_achievements_threshold: C # Only show 'C' rank and above
+          # # plugin_achievements_display: compact # Keeps the layout clean
+          # # plugin_achievements_secrets: yes   # Ensures it uses the token for private achievements
+          # # plugin_achievements_limit: 10      # Limits the fetch to avoid timeout errors
+          # # plugin_achievements_ignored: "member-since"
+          
+          # # # --- Starred Topics (with icons) ---
+          # # plugin_topics: yes
+          # # plugin_topics_limit: 15
+          # # plugin_topics_mode: icons # This shows the icons as requested
