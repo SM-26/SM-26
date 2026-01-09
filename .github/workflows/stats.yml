@@ -17,9 +17,8 @@ jobs:
           template: classic
           
           # --- Base Configuration ---
-          # 'header' for profile, 'activity' for the lines/commits, 'repositories' for repo count.
-          # We omit 'community' and 'metadata' to keep sponsors/orgs hidden.
-          base: header, activity, repositories
+          # This hides Sponsors, Stargazers, and Organizations
+          base: ""
           base_sections: header, highlights, repositories # highlights shows the 'lines of code'
           config_timezone: UTC
 
@@ -33,21 +32,21 @@ jobs:
           plugin_languages_details: percentage, lines
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
-          
-          # --- Starred Topics (with icons) ---
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons # This shows the icons as requested
-          
+                    
           # --- Comment Reactions ---
           plugin_reactions: yes
           plugin_reactions_limit: 200
           plugin_reactions_display: default
           
-          # --- Achievements ---
-          plugin_achievements: yes
-          plugin_achievements_threshold: C # Only show 'C' rank and above
-          plugin_achievements_display: compact # Keeps the layout clean
-          plugin_achievements_secrets: yes   # Ensures it uses the token for private achievements
-          plugin_achievements_limit: 10      # Limits the fetch to avoid timeout errors
-          plugin_achievements_ignored: "member-since"
+          # # --- Achievements ---
+          # plugin_achievements: yes
+          # plugin_achievements_threshold: C # Only show 'C' rank and above
+          # plugin_achievements_display: compact # Keeps the layout clean
+          # plugin_achievements_secrets: yes   # Ensures it uses the token for private achievements
+          # plugin_achievements_limit: 10      # Limits the fetch to avoid timeout errors
+          # plugin_achievements_ignored: "member-since"
+          
+          # # --- Starred Topics (with icons) ---
+          # plugin_topics: yes
+          # plugin_topics_limit: 15
+          # plugin_topics_mode: icons # This shows the icons as requested
