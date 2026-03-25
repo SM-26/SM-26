@@ -71,7 +71,7 @@ I'm a software engineer and enterprise systems consultant with diverse interests
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Mishkile/SMISHKI-SALES-BOT/issues/2#issuecomment-4106356482) in [Mishkile/SMISHKI-SALES-BOT](https://github.com/Mishkile/SMISHKI-SALES-BOT)
+1. ℹ️ Labeled issue [#9](https://github.com/Mishkile/SMISHKI-SALES-BOT/issues/9) in [Mishkile/SMISHKI-SALES-BOT](https://github.com/Mishkile/SMISHKI-SALES-BOT)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
