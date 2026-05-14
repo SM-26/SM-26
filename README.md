@@ -71,7 +71,7 @@ I'm a software engineer and enterprise systems consultant with diverse interests
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/fathah/hermes-desktop/issues/81#issuecomment-4442700984) in [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)
+1. ℹ️ Labeled issue [#46](https://github.com/Mishkile/SMISHKI-SALES-BOT/issues/46) in [Mishkile/SMISHKI-SALES-BOT](https://github.com/Mishkile/SMISHKI-SALES-BOT)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
