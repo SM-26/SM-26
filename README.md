@@ -71,7 +71,7 @@ I'm a software engineer and enterprise systems consultant with diverse interests
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/SM-26/MCC/pull/3) in [SM-26/MCC](https://github.com/SM-26/MCC)
+1. 🔒 Closed issue [#12](https://github.com/SM-26/MCC/issues/12) in [SM-26/MCC](https://github.com/SM-26/MCC)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
