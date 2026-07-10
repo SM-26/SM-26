@@ -71,7 +71,7 @@ I'm a software engineer and enterprise systems consultant with diverse interests
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Mastrmyrtr9/EquipmentMk2/pull/5) in [Mastrmyrtr9/EquipmentMk2](https://github.com/Mastrmyrtr9/EquipmentMk2)
+1. ❌ Closed PR [#5](https://github.com/Mastrmyrtr9/EquipmentMk2/pull/5) in [Mastrmyrtr9/EquipmentMk2](https://github.com/Mastrmyrtr9/EquipmentMk2)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
