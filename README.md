@@ -71,7 +71,7 @@ I'm a software engineer and enterprise systems consultant with diverse interests
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#47](https://github.com/SM-26/JSTS-SaleBot/pull/47) in [SM-26/JSTS-SaleBot](https://github.com/SM-26/JSTS-SaleBot)
+1. 💪 Opened PR [#26](https://github.com/SM-26/MCC/pull/26) in [SM-26/MCC](https://github.com/SM-26/MCC)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
