@@ -71,7 +71,7 @@ I'm a software engineer and enterprise systems consultant with diverse interests
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#208](https://github.com/bilawalsidhu/gods-eye-view/pull/208#issuecomment-6061539665) in [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+1. 🗣 Commented on [#1](https://github.com/hneogy/gp-omm-conformance/issues/1#issuecomment-6080801857) in [hneogy/gp-omm-conformance](https://github.com/hneogy/gp-omm-conformance)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
