@@ -71,7 +71,7 @@ I'm a software engineer and enterprise systems consultant with diverse interests
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#208](https://github.com/bilawalsidhu/gods-eye-view/pull/208) in [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+1. ❌ Closed PR [#8](https://github.com/SatisfactoryTools/SFTools/pull/8) in [SatisfactoryTools/SFTools](https://github.com/SatisfactoryTools/SFTools)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
