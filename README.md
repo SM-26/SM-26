@@ -71,7 +71,7 @@ I'm a software engineer and enterprise systems consultant with diverse interests
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/SatisfactoryTools/SFTools/pull/8) in [SatisfactoryTools/SFTools](https://github.com/SatisfactoryTools/SFTools)
+1. 🗣 Commented on [#1](https://github.com/hneogy/gp-omm-conformance/issues/1#issuecomment-6583242093) in [hneogy/gp-omm-conformance](https://github.com/hneogy/gp-omm-conformance)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
