@@ -71,7 +71,7 @@ I'm a software engineer and enterprise systems consultant with diverse interests
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/hneogy/gp-omm-conformance/issues/1#issuecomment-6583242093) in [hneogy/gp-omm-conformance](https://github.com/hneogy/gp-omm-conformance)
+1. 💪 Opened PR [#91](https://github.com/SM-26/JSTS-SaleBot/pull/91) in [SM-26/JSTS-SaleBot](https://github.com/SM-26/JSTS-SaleBot)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
