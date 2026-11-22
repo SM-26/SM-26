@@ -71,7 +71,7 @@ I'm a software engineer and enterprise systems consultant with diverse interests
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#154](https://github.com/SM-26/JSTS-SaleBot/issues/154) in [SM-26/JSTS-SaleBot](https://github.com/SM-26/JSTS-SaleBot)
+1. 💪 Opened PR [#1402](https://github.com/yagop/node-telegram-bot-api/pull/1402) in [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
