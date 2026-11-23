@@ -71,7 +71,7 @@ I'm a software engineer and enterprise systems consultant with diverse interests
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1402](https://github.com/yagop/node-telegram-bot-api/pull/1402) in [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
+1. 🗣 Commented on [#1402](https://github.com/yagop/node-telegram-bot-api/pull/1402#issuecomment-7095257928) in [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
